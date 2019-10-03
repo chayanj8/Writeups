@@ -1,2 +1,2 @@
 # Writeups
-OSCP Like VulnHub writeups
+OSCP Like machine's writeups
